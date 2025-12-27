@@ -3,5 +3,5 @@
 _Students: Please add your name to this list and submit a PR. Optionally, add relevant links. Remember this is a public web page._
 
 * John MacCormick: [homepage](https://www.dickinson.edu/johnmaccormick), [github](https://github.com/johnmaccormick), [office hours](https://johnmaccormick.github.io/jmac-web/office-hours.html), [contact details](https://johnmaccormick.github.io/jmac-web/contact.html)
-* Fake participant 1
+* Hemanth Kapa: [hompepage](https://kapahemanth.super.site/), [github](https://github.com/hemanthkapa), [linked](https://www.linkedin.com/in/hemanth-kapa/)
 * Fake participant 2
