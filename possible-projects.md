@@ -16,4 +16,5 @@ In no particular order:
 * Mentor one or both of our first-year students
 * Experiment with training our simple character-level models on GPUs. Determine whether GPUs are a significant benefit for this type of model. If so, how can we best take advantage of them? Analyze the financial costs and benefits, then make a recommendation on how to proceed.
   - This is a complex question that depends on the size of the models we are using. So the analysis needs to employ a range of different sizes for the models.
+* [This is more of a general challenge than a project.] What is the most interesting or complex problem you can solve using a character-level LLM that can be trained in 3 minutes on a laptop?
 
