@@ -27,13 +27,21 @@ This is a list of activities that are recommended to be completed as part of joi
   * Download and familiarize yourself with Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT). If you have questions or need help, post to the [nanoGPT channel](https://teams.microsoft.com/l/channel/19%3Adeeefd292f9d470d93d60bad64e6ab7e%40thread.tacv2/nanoGPT?groupId=327c5cf0-93db-45ce-be36-d648004b666f&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb).
     1. Figure out how to train and sample from the _character-level_ Shakespeare model.
     2. Create a new character-level model that is identical to the character-level Shakespeare model but using a different corpus of text. 
-  * Train and sample from the character-level Shakespeare model in _our fork of nanoGPT_:[comp560-nanoGPT](https://github.com/dson-comp560-sp26/comp560-nanoGPT)
+  * Train and sample from the character-level Shakespeare model in _our fork of nanoGPT_: [comp560-nanoGPT](https://github.com/dson-comp560-sp26/comp560-nanoGPT)
     - This should be very similar to the previous exercise, but you have the capability of training and sampling from a different directory. See the `README-fork.md` file in that repo.
   * Train and sample from the models in [comp560-jmac](https://github.com/dson-comp560-sp26/comp560-jmac). See the README there.
     - Also, add your name to the list in `alphabet/data/students/prepare.py`. Train and sample from the model again to verify it can output your name (among the other random choices) when sampling.
     - Submit a PR for your change.
 
 
-## ... under construction ... more to be added ...
+## Do your first research experiment
 
-* ???...
+  * Instructions for this are on the separate [First Research Experiment](first-research-expt/first-research-expt.md) page
+
+## Wandb familiarization
+
+* Sign up at [wandb.ai/](https://wandb.ai/). Make sure you are a member of our team `dickinson-comp560-sp26`. (You should have received an invitation for this. If not, you can request one from the instructors.)
+* Do a tutorial available from Wandb. Make sure you view can results from a run of their tutorial code.
+* Re-run your [First Research Experiment](first-research-expt/first-research-expt.md), this time using Wandb for logging. 
+  - In the config file, set `wandb_log = True` and provide meaningful values for `wandb_project` and `wandb_run_name`.
+* View the results at [wandb.ai/](https://wandb.ai/). Ensure you can see a graph of the training loss decreasing as the number of iterations increases. Add this graph to the report you made on your first research experiment.
