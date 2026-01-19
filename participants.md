@@ -6,3 +6,4 @@ _Students: Please add your name to this list and submit a PR. Optionally, add re
 * Hemanth Kapa: [hompepage](https://kapahemanth.super.site/), [github](https://github.com/hemanthkapa), [linked](https://www.linkedin.com/in/hemanth-kapa/)
 * William Goble: [github](https://github.com/wpgoble)
 * Ty Chermsirivatana: (currently auditing & studying abroad in Copenhagen, Spring 2026): [github](https://github.com/WarpWing), [linkedin](https://www.linkedin.com/in/ty-chermsirivatana/)
+* Maximo Sanchez: [GitHub](https://github.com/MaxiSanc37), [LinkedIn](https://www.linkedin.com/in/m%C3%A1ximo-s%C3%A1nchez-a6093a191/)
