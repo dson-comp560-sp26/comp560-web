@@ -12,3 +12,4 @@ _Students: Please add your name to this list and submit a PR. Optionally, add re
 * Lam Pham : [Portfolio](https://lamportfolio.vercel.app/), [Github](https://github.com/tlamDson), [LinkedIn](https://www.linkedin.com/in/lam-pham-1651b82b7/)
 * Aaron Shin: [GitHub](https://github.com/aaronshin43), [LinkedIn](https://www.linkedin.com/in/aaron-shin-377477350)
 * Rohan Piya: [Github] (https://github.com/rohanpiya), [LinkedIn] (https://www.linkedin.com/in/rohan-piya-9578b4352/)
+* Matt Ferland: [github](https://github.com/ferlandm)
