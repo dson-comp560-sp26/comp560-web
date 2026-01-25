@@ -30,7 +30,7 @@ This is a list of activities that are recommended to be completed as part of joi
   * Train and sample from the character-level Shakespeare model in _our fork of nanoGPT_: [comp560-nanoGPT](https://github.com/dson-comp560-sp26/comp560-nanoGPT)
     - This should be very similar to the previous exercise, but you have the capability of training and sampling from a different directory. See the `README-fork.md` file in that repo.
   * Train and sample from the models in [comp560-jmac](https://github.com/dson-comp560-sp26/comp560-jmac). See the README there.
-    - Also, add your name to the list in `alphabet/data/students/prepare.py`. Train and sample from the model again to verify it can output your name (among the other random choices) when sampling.
+    - Also, add your name to the "building_blocks" list in `alphabet/data/students/prepare.py`. Train and sample from the model again to verify it can output your name (among the other random choices) when sampling.
     - Submit a PR for your change.
 
 
