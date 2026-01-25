@@ -8,7 +8,7 @@ A significant component of your grade for COMP560 will be determined by your _ac
   - writing reports, papers, presentations, posters etc.;
   - attending meetings or working with other students;
   - any other activity related to the project.
-* Because a significant component of your grade is determined by _effort_ rather than _achievement_, you should be assiduous in logging your activity. The instructors will able to give you favorable grade for effort only if your activity log makes it obvious that you have been spending at least 10 hours per week working on our project.
+* Because a significant component of your grade is determined by _effort_ rather than _achievement_, you should be assiduous in logging your activity. The instructors will be able to give you favorable grade for effort only if your activity log makes it obvious that you have been spending at least 10 hours per week working on our project.
 * It is suggested you post _at least one message to your activity log on every day on which you spend time working on our project_. Each message should be a few sentences describing your activity (aim for, say, 50 words -- but more is better!). 
   - Example: In some particular week you spend the following time working on COMP560: 3 hours on Monday, one hour on Wednesday to attend our weekly evening meeting, 4 hours on Thursday, and 4 hours on Saturday. Then you should post four separate activity log messages describing your activities on Monday, Wednesday, Thursday, and Saturday.
 * If you post fewer than two messages per week, you will likely receive a failing grade unless there is very strong alternative evidence of your effort on the project (e.g. substantial commits to our code repository, or concrete achievements such as research reports).
