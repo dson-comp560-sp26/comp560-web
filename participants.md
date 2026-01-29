@@ -13,3 +13,7 @@ _Students: Please add your name to this list and submit a PR. Optionally, add re
 * Aaron Shin: [GitHub](https://github.com/aaronshin43), [LinkedIn](https://www.linkedin.com/in/aaron-shin-377477350)
 * Rohan Piya: [Github] (https://github.com/rohanpiya), [LinkedIn] (https://www.linkedin.com/in/rohan-piya-9578b4352/)
 * Matt Ferland: [github](https://github.com/ferlandm)
+* Biruk Kebede: [github](https://github.com/Kebedeb)
+* Mubashshir Alam Ifrad: [github](https://github.com/Ifrad), [linkedin](https://www.linkedin.com/in/mubashshir-alam-ifrad-9159aa2b2/)
+* Aziz Muminov [github](https://github.com/AzizbekMuminoff)
+* Radiath Kamal Patwary:[github](https://github.com/RadiathKamalPatwary),[linkedIn](https://www.linkedin.com/in/radiath-kamal-patwary-591ab4278/)

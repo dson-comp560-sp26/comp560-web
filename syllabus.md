@@ -42,7 +42,7 @@ The final grade will be assessed via four equally weighted marking periods (MP1-
 - MP3 ends at 11:59pm, Tue Apr 7
 - MP4 ends at 11:59pm, Fri May 1
 
-For each marking period, a student will receive a score according to the following rubric. The notions of _activity log_,  _deliverable_ and _research acievement_ are defined in more detail later.
+For each marking period, a student will receive a score according to the following rubric. The notions of _activity log_,  _deliverable_ and _research achievement_ are defined in more detail later.
 
 | Score | Criteria |
 |-------|----------|
