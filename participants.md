@@ -20,4 +20,4 @@ _Students: Please add your name to this list and submit a PR. Optionally, add re
 * Youssif Goda:[github](https://github.com/YoussifGoda),[linkedIn](www.linkedin.com/in/youssif-goda)
 * Rayyan Madraswala: [github](https://github.com/R1Kexpress)
 * Nish Kolla (high school student): [github](https://github.com/nishcola)
-* Pranav Azad [homepage](https://pranavazad.com), [Github](https://github.com/Cubin1215)
+* Pranav Azad [homepage](https://pranavazad.com), [Github](https://github.com/Cubin1215), [LinkedIn](https://www.linkedin.com/in/pranavazad/)
