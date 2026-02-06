@@ -9,3 +9,4 @@
 * [Literature](literature/literature.md)
 * [Participants](participants.md)
 * [Github links](github-links.md)
+* [Publication and presentation opportunities](pub-and-present.md)
