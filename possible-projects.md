@@ -28,3 +28,4 @@ In no particular order:
 * can we develop in theory or in practice some kind of algebra of transformer architectures? along the following lines: Train A for task T, then B for task U. Add or concatenate A&B, fine-tune to solve U-follows-T or maybe T concat U. (example: reverse digits then add)
 * can we think of a task that provably requires scratch pad, if we impose limit on depth or overall size of transformer?
   * one possible example: Task: sum of two digits embedded in random string E.g. aaaassd3fddfvff5dddffd -> 8. presumably it is easier to write down the two digits first then add them. Simpler: use binary XOR and only a single clutter character: e.g. aaaaaaa1aaaaaa0aaaa -> 1
+* extend and improve jmac's [toyAI](https://github.com/johnmaccormick/toyAI/) experiments.
