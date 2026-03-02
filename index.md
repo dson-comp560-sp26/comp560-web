@@ -10,3 +10,4 @@
 * [Participants](participants.md)
 * [Github links](github-links.md)
 * [Publication and presentation opportunities](pub-and-present.md)
+* [Mid-semester survey](https://forms.office.com/r/775hKcHekF)
