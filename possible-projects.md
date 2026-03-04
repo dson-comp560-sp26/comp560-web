@@ -27,5 +27,8 @@ In no particular order:
 * investigate whether [JAX](https://en.wikipedia.org/wiki/JAX_%28software%29) can be used to speed up training for our class of small simple models
 * can we develop in theory or in practice some kind of algebra of transformer architectures? along the following lines: Train A for task T, then B for task U. Add or concatenate A&B, fine-tune to solve U-follows-T or maybe T concat U. (example: reverse digits then add)
 * can we think of a task that provably requires scratch pad, if we impose limit on depth or overall size of transformer?
-  * one possible example: Task: sum of two digits embedded in random string E.g. aaaassd3fddfvff5dddffd -> 8. presumably it is easier to write down the two digits first then add them. Simpler: use binary XOR and only a single clutter character: e.g. aaaaaaa1aaaaaa0aaaa -> 1
+  - one possible example: Task: sum of two digits embedded in random string E.g. aaaassd3fddfvff5dddffd -> 8. presumably it is easier to write down the two digits first then add them. Simpler: use binary XOR and only a single clutter character: e.g. aaaaaaa1aaaaaa0aaaa -> 1
 * extend and improve jmac's [toyAI](https://github.com/johnmaccormick/toyAI/) experiments.
+* Create, adapt, or adopt some tools that create beautiful visualizations of our simple GPT models
+* experiment with initiating tool calls when there is high uncertainty over the next token, as in this [Meta-Cognition Trigger](https://arxiv.org/pdf/2502.12961) article. Credit: Biruk Kebede
+* experiment with repeating the prompt as in [Prompt Repetition Improves Non-Reasoning LLMs](https://arxiv.org/pdf/2512.14982). Credit: Aziz Muminov
