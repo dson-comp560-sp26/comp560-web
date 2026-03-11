@@ -32,3 +32,4 @@ In no particular order:
 * Create, adapt, or adopt some tools that create beautiful visualizations of our simple GPT models
 * experiment with initiating tool calls when there is high uncertainty over the next token, as in this [Meta-Cognition Trigger](https://arxiv.org/pdf/2502.12961) article. Credit: Biruk Kebede
 * experiment with repeating the prompt as in [Prompt Repetition Improves Non-Reasoning LLMs](https://arxiv.org/pdf/2512.14982). Credit: Aziz Muminov
+* use Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) to run any of the experiments in this project
