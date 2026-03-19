@@ -5,6 +5,7 @@
 **Instructors: Matt Ferland, William Goble, John MacCormick**
 
 
+<font color="red">Updates in red were inserted on 3/19/2026, and apply only to the second half of the semester.</font>
 
 ## Learning goals
 
@@ -46,8 +47,8 @@ For each marking period, a student will receive a score according to the followi
 
 | Score | Criteria |
 |-------|----------|
-| 90-100 | Activity log and deliverables provide convincing evidence of a minimum of 10 hours' effort per week and include providing help to other students; contributions are of very high quality and at least some contributions represent research achievement |
-| 80-89 | Activity log and deliverables provide convincing evidence of a minimum of 10 hours' effort per week; contributions are of good quality but need not represent research achievement |
+| 90-100 | Activity log and deliverables provide convincing evidence of a minimum of <s>10</s><font color="red">7</font> hours' effort per week and include providing help to other students; contributions are of very high quality and at least some contributions represent research achievement |
+| 80-89 | Activity log and deliverables provide convincing evidence of a minimum of <s>10</s><font color="red">7</font> hours' effort per week; contributions are of good quality but need not represent research achievement |
 | 70-79 | Activity log and deliverables provide evidence of substantial effort (at least a few hours per week); contributions meet minimal expectations for quality|
 | 60-69 | Activity log and deliverables provide evidence of substantial effort (at least a few hours per week); contributions do not meet minimal expectations for quality |
 | <60 | Activity log and deliverables do not provide evidence of substantial effort |
