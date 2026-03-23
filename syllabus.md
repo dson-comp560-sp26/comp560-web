@@ -5,7 +5,7 @@
 **Instructors: Matt Ferland, William Goble, John MacCormick**
 
 
-<font color="red">Updates in red were inserted on 3/19/2026, and apply only to the second half of the semester.</font>
+<font color="red">Updates in red were inserted on 3/19/2026 and/or 3/23/2026. These updates apply only to the second half of the semester.</font>
 
 ## Learning goals
 
@@ -22,12 +22,12 @@ Everyone in the course belongs equally to our research project community. The in
 ## Teaching methods
 
 - Independent research based on guidance from instructors and other students.
-- Regular ad hoc meetings of the full research team and smaller subteams as needed.
+- Regular <font color="red"><s>ad hoc</s></font> meetings of the full research team and smaller subteams as needed.
 
 ## When and where
 
 - There are no formal classroom sessions.
-- A full team meeting will take place every Wednesday evening, 7pm-8pm. Attendance is recommended but not mandatory.
+- A full team meeting will take place every Wednesday evening, 7pm-8pm. Attendance is <s>recommended but not mandatory</s> <font color="red">expected; see the [attendance policy](./attendance.md)</font>.
 - Office hours: see the instructors' office hour
     webpages: [Goble](office-hours/goble.md), [Ferland](office-hours/ferland.md), [MacCormick](https://johnmaccormick.github.io/jmac-web/office-hours.html).
 
