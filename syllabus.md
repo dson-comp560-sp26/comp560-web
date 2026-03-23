@@ -27,7 +27,7 @@ Everyone in the course belongs equally to our research project community. The in
 ## When and where
 
 - There are no formal classroom sessions.
-- A full team meeting will take place every Wednesday evening, 7pm-8pm. Attendance is <s>recommended but not mandatory</s> <font color="red">expected; see the [attendance policy](./attendance.md)</font>.
+- A full team meeting will take place every Wednesday evening, 7pm-8pm. Attendance is <s>recommended but not mandatory</s> <font color="red">expected; see the</font> [attendance policy](./attendance.md).
 - Office hours: see the instructors' office hour
     webpages: [Goble](office-hours/goble.md), [Ferland](office-hours/ferland.md), [MacCormick](https://johnmaccormick.github.io/jmac-web/office-hours.html).
 
