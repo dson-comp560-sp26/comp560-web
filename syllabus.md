@@ -47,9 +47,9 @@ For each marking period, a student will receive a score according to the followi
 
 | Score | Criteria |
 |-------|----------|
-| 90-100 | Activity log and deliverables provide convincing evidence of a minimum of <s>10</s><font color="red">7</font> hours' effort per week and include providing help to other students; contributions are of very high quality and at least some contributions represent research achievement |
-| 80-89 | Activity log and deliverables provide convincing evidence of a minimum of <s>10</s><font color="red">7</font> hours' effort per week; contributions are of good quality but need not represent research achievement |
-| 70-79 | Activity log and deliverables provide evidence of substantial effort (at least a few hours per week); contributions meet minimal expectations for quality|
+| 90-100 | Activity log and deliverables provide convincing evidence of a minimum of <s>10</s><font color="red">7</font> hours' effort per week and include providing help to other students; contributions are of very high quality and at least some contributions represent research achievement; meeting attendance adheres to policy |
+| 80-89 | Activity log and deliverables provide convincing evidence of a minimum of <s>10</s><font color="red">7</font> hours' effort per week; contributions are of good quality but need not represent research achievement; meeting attendance adheres to policy |
+| 70-79 | Activity log and deliverables provide evidence of substantial effort (at least a few hours per week); contributions meet minimal expectations for quality; meeting attendance adheres to policy|
 | 60-69 | Activity log and deliverables provide evidence of substantial effort (at least a few hours per week); contributions do not meet minimal expectations for quality |
 | <60 | Activity log and deliverables do not provide evidence of substantial effort |
 
