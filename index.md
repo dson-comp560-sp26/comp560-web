@@ -3,7 +3,7 @@
 ## Liberating chain-of-thought reasoning in large language models
 
 * [Onboarding activities](onboarding.md)
-* [Activity logs](activity-logs.md)
+* [Activity logs](activity-logs.md) - <font color="red">includes Activity Log schedule for MP3 and MP4 (added 3/25/2026)</font>
 * [Syllabus](syllabus.md)
 * [Possible projects](possible-projects.md)
 * [Literature](literature/literature.md)
