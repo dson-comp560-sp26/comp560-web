@@ -34,3 +34,4 @@ In no particular order:
 * experiment with repeating the prompt as in [Prompt Repetition Improves Non-Reasoning LLMs](https://arxiv.org/pdf/2512.14982). Credit: Aziz Muminov
 * use Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) to run any of the experiments in this project
 * Replicate or extend the work by Pranav Azad and Professor Eren Bilen on employing neural networks to learn human-like solutions to the Rubik's Cube. 
+* Demonstrate and further investigate the _virtual attention heads_ described in Elhage, et al., "[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)", _Transformer Circuits Thread_, 2021. [details](./assets/images/virtual-attention-heads.png)
