@@ -45,7 +45,7 @@ _suggested by Aziz_
 ## The effect of prompts
 
 - Leviathan, Y., Kalman, M., & Matias, Y. (2025). [*Prompt Repetition Improves Non-Reasoning LLMs*](https://arxiv.org/abs/2512.14982). arXiv:2512.14982 [cs.LG].
-  * The authors demonstrate that simply repeating an input prompt (i.e., duplicating the text) can improve the performance of popular language models on non-reasoning benchmarks without increasing the number of generated tokens or inference latency.
+  * The authors demonstrate that simply repeating an input prompt (i.e., duplicating the text) can improve the performance of popular language models on non-reasoning benchmarks without increasing the number of generated tokens or inference latency. See also [summary of Leviathan2025](./summaries/Leviathan2025.md).
 
 _suggested by Aziz_
 
