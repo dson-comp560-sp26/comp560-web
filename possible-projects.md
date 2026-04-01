@@ -31,7 +31,10 @@ In no particular order:
 * extend and improve jmac's [toyAI](https://github.com/johnmaccormick/toyAI/) experiments.
 * Create, adapt, or adopt some tools that create beautiful visualizations of our simple GPT models
 * experiment with initiating tool calls when there is high uncertainty over the next token, as in this [Meta-Cognition Trigger](https://arxiv.org/pdf/2502.12961) article. Credit: Biruk Kebede
-* experiment with repeating the prompt as in [Prompt Repetition Improves Non-Reasoning LLMs](https://arxiv.org/pdf/2512.14982). Credit: Aziz Muminov
+* experiment with repeating the prompt as in [Prompt Repetition Improves Non-Reasoning LLMs](https://arxiv.org/pdf/2512.14982). Credit: Aziz Muminov.
+Potential experiments include the following: 
+  - Try addition and repeated-prompt addition using API calls to some early models like GPT 3. Demonstrate the efficacy of repeating the prompt in a case like this.
+  - Train one of our simple character-level models with repeated prompts for addition or some other simple task. Does this work better? Is it worth the effort of training on a larger context window, for example?
 * use Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) to run any of the experiments in this project
 * Replicate or extend the work by Pranav Azad and Professor Eren Bilen on employing neural networks to learn human-like solutions to the Rubik's Cube. 
 * Demonstrate and further investigate the _virtual attention heads_ described in Elhage, et al., "[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)", _Transformer Circuits Thread_, 2021. [details](./assets/images/virtual-attention-heads.png)
