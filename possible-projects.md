@@ -38,3 +38,4 @@ Potential experiments include the following:
 * use Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) to run any of the experiments in this project
 * Replicate or extend the work by Pranav Azad and Professor Eren Bilen on employing neural networks to learn human-like solutions to the Rubik's Cube. 
 * Demonstrate and further investigate the _virtual attention heads_ described in Elhage, et al., "[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)", _Transformer Circuits Thread_, 2021. [details](./assets/images/virtual-attention-heads.png)
+* Investigate the trade-off of width versus depth for small transformers. See [The Depth Delusion: Why Transformers Should Be Wider, Not Deeper](https://arxiv.org/abs/2601.20994). Credit: Biruk Kebede.
