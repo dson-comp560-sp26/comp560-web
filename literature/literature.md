@@ -52,9 +52,10 @@ _suggested by Aziz_
 ## Augmenting transformer with memory
 
 - Burtsev, M. S., Kuratov, Y., Peganov, A., & Sapunov, G. V. (2021). [*Memory Transformer*](https://arxiv.org/abs/2006.11527). arXiv:2006.11527 [cs.CL].
-  * This paper introduces transformer architectures augmented with memory tokens that help capture both local and global sequence information, leading to improved performance on tasks like machine translation and language modeling by effectively storing and attending to non-local representations.
+  * This paper introduces transformer architectures augmented with memory tokens that help capture both local and global sequence information, leading to improved performance on tasks like machine translation and language modeling by effectively storing and attending to non-local representations. _Suggested by Aziz_
 
-_suggested by Aziz_
+- Bietti, A., Cabannes, V., Bouchacourt, D., Jegou, H., & Bottou, L. (2023). [Birth of a transformer: A memory viewpoint](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0561738a239a995c8cd2ef0e50cfa4fd-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36, 1560-1588.
+  * Describes how to train a single-head, two-layer transformer using simulated data that is mostly random but contains hardwired pairs of adjacent tokens. The model is forced to learn a so-called _induction head_, allowing analysis of which parameters are learned first and other aspects of the learning process. It also enables comparison with an ideal induction head whose parameters are calculated explicitly by the authors. This paper is interesting to us not so much for its results, but for its clean approach to defining a very simple transformer model and comparing hand-crafted parameters to learned ones.
 
 ## Tool use
 
