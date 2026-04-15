@@ -42,3 +42,5 @@ Potential experiments include the following:
 * Investigate whether micro-LLMs have super weights -- see [*The super weight in large language models*](https://arxiv.org/abs/2411.07191).  Credit: Hemanth Kepa
 * Investigate similarities and differences between manually crafted and trained micro-LLMs for data generated from an HMM (hidden Markov model).
   - Important variant: Allow the model scratch space interleaved between its output. It can record data about the hidden state here. Does it help?
+* Construct a problem that provably requires a scratchpad.
+  - Initial idea: Use a very small block size, number of layers, number of heads, model dimension. Do something like two or three digit addition that requires memorization of some aspect of the model  (e.g. that a carry is required), in a way that requires more storage than is available in the KV cache (very loosely speaking!). Perhaps there is an information-theoretic way of looking at this. Maybe a we can achieve the opposite objective -- namely, prove that a scratchpad is never required??
