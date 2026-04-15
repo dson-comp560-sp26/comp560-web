@@ -65,4 +65,16 @@ _suggested by Aziz_
 _suggested by Biruk_
 
 
+## Alternatives to attention
+
+- Dao, T., & Gu, A. (2024). [*Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality*](https://arxiv.org/abs/2405.21060). arXiv:2405.21060.
+  * Proposes an alternative to attention layers, called _mamba-2_. The alternative has certain computational advantages while maintaining most of the accuracy of attention. The same authors introduced an earlier version in their [mamba-1 paper](https://arxiv.org/abs/2312.00752), and with a bunch of collaborators have also released [mamba-3](https://arxiv.org/abs/2603.15569) in March 2026.
+
+## Super-weights
+
+- Yu, M., Wang, D., Shan, Q., Reed, C. J., & Wan, A. (2024). [*The super weight in large language models*](https://arxiv.org/abs/2411.07191). arXiv preprint arXiv:2411.07191.
+  * Reports that pruning very small number of weights  (sometimes only 1 weight) in a model with billions of parameters can drastically alter the performance. This has various consequences for model quantization and applications. Relevant question for DNU Lab: Do we see the same behavior in micro-LLMs?
+
+_Credit: Hemanth Kepa_
+
 <!-- start at Hemanth -->

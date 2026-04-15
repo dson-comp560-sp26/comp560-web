@@ -39,3 +39,6 @@ Potential experiments include the following:
 * Replicate or extend the work by Pranav Azad and Professor Eren Bilen on employing neural networks to learn human-like solutions to the Rubik's Cube. 
 * Demonstrate and further investigate the _virtual attention heads_ described in Elhage, et al., "[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)", _Transformer Circuits Thread_, 2021. [details](./assets/images/virtual-attention-heads.png)
 * Investigate the trade-off of width versus depth for small transformers. See [The Depth Delusion: Why Transformers Should Be Wider, Not Deeper](https://arxiv.org/abs/2601.20994). Credit: Biruk Kebede.
+* Investigate whether micro-LLMs have super weights -- see [*The super weight in large language models*](https://arxiv.org/abs/2411.07191).  Credit: Hemanth Kepa
+* Investigate similarities and differences between manually crafted and trained micro-LLMs for data generated from an HMM (hidden Markov model).
+  - Important variant: Allow the model scratch space interleaved between its output. It can record data about the hidden state here. Does it help?
