@@ -34,6 +34,10 @@ _suggested by Aziz_
 
 - Baeumel, Tanja, Josef van Genabith, and Simon Ostermann. "The lookahead limitation: Why multi-operand addition is hard for LLMs." arXiv preprint arXiv:2502.19981 (2025). [pdf at arXiv](https://arxiv.org/pdf/2502.19981).
 
+- Lee, N., Sreenivasan, K., Lee, J. D., Lee, K., & Papailiopoulos, D. (2024, May). Teaching Arithmetic to Small Transformers. In International Conference on Learning Representations. ICLR 2024. [pdf at arXiv](https://arxiv.org/pdf/2307.03381). _suggested by Hemanth_ 
+  * **extremely** Relevant to our project. Can someone read and provide a summary and/or suggested next steps?
+
+
 
 ## Representation of concepts within LLMS
 
