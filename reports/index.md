@@ -23,5 +23,8 @@ Note: Reports are provided as submitted by students and have not been validated 
 ## Posters
 
 * Goda, Youssif; Lee, John; Sanchez, Maximo. [GPU vs CPU Performance Analysis on Character-Level AI Models](goda-lee-sanchez-poster.pdf)
-* McClellan, Coby. [DataFrame QA: Privacy-Preserving Data Analysis via Schema Metadata](mclellan-poster.pdf)
+* McClellan, Coby. [DataFrame QA: Privacy-Preserving Data Analysis via Schema Metadata](mcclellan-poster.pdf)
 
+## Slides
+
+* McClellan, Coby. [COMP560 Retrospective: A semester of language model experiments, implementations, and research](mcclellan-slides.pdf)
