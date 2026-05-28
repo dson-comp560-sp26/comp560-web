@@ -6,7 +6,7 @@ These reports can be cited as "Dickinson College DNU Lab independent research re
 
 * Azad, Pranav. [Evaluating Data Representation and Chain-of-Thought Reasoning for Arithmetic Tasks in Character-Level Language Models](azad.pdf)
 * Goda, Youssif; Lee, John; Sanchez, Maximo. [Hardware Comparison on Tiny Shakespeare (Character-Level nanoGPT)](lee-sanchez-goda.pdf)
-* Ifrad. [Transformer Reasoning Research](https://github.com/Ifrad/transformer-reasoning-research)
+* Ifrad, Mubashshir Alam. [Transformer Reasoning Research](https://github.com/Ifrad/transformer-reasoning-research)
 * Jadoon, Tayyaba. [Reasoning Without Generalization: A Comparison of Direct, Chain-of-Thought, and Scratchpad Training Paradigms on Out-of-Distribution Arithmetic](tayyaba.pdf)
 * Kapa, Hemanth Surya Ganesh. [Latent Chain-of-Thought via Looped Transformers](https://github.com/hemanthkapa/comp560-hkapa/blob/main/latent-cot-nanogpt/FINAL_REPORT.md)
 * Muminov, Aziz. [Cross-Step Activation Mixing Has a Depth-Dependent Design Tradeoff: Preliminary Results on Multi-Digit Addition](muminov.pdf)
